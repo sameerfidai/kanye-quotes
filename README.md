@@ -3,4 +3,4 @@
 ## To run:
       python3 main.py
 
-![App Demo](kanye-demo.png)
+![App Demo](app-demo.png)
