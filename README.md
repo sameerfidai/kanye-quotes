@@ -1,6 +1,6 @@
 # Kanye's Quotes
 
 ## To run:
-   python3 main.py
+      python3 main.py
 
-![App Demo] (/kanye-demo.png)
+![App Demo](kanye-demo.png)
