@@ -1,2 +1,4 @@
-# kanye-quotes
-Quotes from Yeezus
+# Kanye's Quotes
+
+# To run:
+      python3 main.py
